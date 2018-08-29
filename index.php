@@ -45,6 +45,10 @@ $app->get('/embarazo',  function(){
     include_once 'View/smashcake.php';  
  });
 
+ $app->get('/mi-portafolio',  function(){  
+    include_once 'View/mi-portafolio.php';  
+ });
+
 //-------------------------------------------------//
 
 $app->get('/hello/{name}', function (Request $request, Response $response) {

@@ -114,7 +114,7 @@
                     </div>
                 </li>
                 <li>
-                    <img id="img2" src="Recursos/img/Portada02.jpg"> <!-- random image -->
+                    <img id="img2" src="Recursos/img/fondoport2.jpg"> <!-- random image -->
                     <div id="txtport2" class="caption right-align" style="margin-left: 50px;">
                     <h3 style="text-shadow: 2px 2px 3px #757575;">Y será la excusa perfecta</h3>
                     <h5 class="light white-text text-lighten-3" style="text-shadow: 2px 2px 3px #757575;">para tener al lado a nuestros hijos,<br>tengan la edad que tengan.</h5>
@@ -153,14 +153,14 @@
         <div class="row" style="padding-top: 5rem;">
            <div id="pr1" class="col s12 m4 red center-align" style="height:480px;padding: 0px;">                
                 <!--<img  class="" style="position: relative;height: auto;" src="Recursos/img/PortadaEM.jpg" width="100%"> -->
-                <a href="./embarazo.php" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">Embarazo</a>
+                <a href="./embarazo" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">Embarazo</a>
            </div>
            <div id="pr2" class="col s12 m4 blue center-align" style="height:480px;padding: 0px;">
-                <a href="./newborn.php" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">Newborn</a>
+                <a href="./newborn" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">Newborn</a>
            </div>
            <div id="pr3" class="col s12 m4 green center-align" style="height:480px;padding: 0px;">
                 <!--<button id="btn_categorias" style="border:1px solid white; background-color:transparent;">Smash Cake</button> --> 
-                <a href="./smashcake.php" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">smash cake</a>               
+                <a href="./smashcake" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">smash cake</a>               
            </div>
         </div>
     
