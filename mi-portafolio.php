@@ -9,7 +9,13 @@
     <script src="View/Scripts/mi-portafolio.js"></script> 
     <script src="Recursos/js/jquery.bxslider.min.js"></script> 
           
-    <script></script>
+    <script>
+    $(document).ready(function(){
+        
+        $('select').formSelect();
+
+  });
+    </script>
 
     <style>
 
@@ -18,7 +24,8 @@
          list-style-type: disc !important;
          color: #424242;
          margin-left: 25px;
-        }       
+        }
+        
     </style>
 
 </head>
@@ -42,8 +49,26 @@
     ?>
 
     <!-- Inicio de contenido de página -->
-       
-    <section class="container" style="min-height: 350px;margin-top: 50px;margin-bottom: 0px;">
+    <section class="container right-align" style="min-height:30px;margin-top: 30px;margin-bottom: 0px;">
+         <div class="row">
+          <div class="input-field col s12 m12  ">
+            <p>
+               <!--
+                   <a href="#embarazo" class="chip" style="background-color: #b56289; color: white;">Embarazo</a> 
+                    <a href="#newborn" class="chip" style="background-color: #dfbbcc; color: white;">Newborn</a>               
+                    <a href="#smashcake" class="chip white-text" style="background-color: #dfbbcc; color: white;">Smashcake</a>
+                    <a href="#otras" class="chip white-text" style="background-color: #dfbbcc; color: white;">Otras sesiones</a>
+               -->
+               <a href="#embarazo" class="chip white-text" style="background-color: #b56289;">Embarazo</a>
+               <a href="#newborn" class="chip white-text" style="background-color: #b56289;">Newborn</a>
+               <a href="#smashcake" class="chip white-text" style="background-color: #b56289;">Smashcake</a>
+               <a href="#otras" class="chip white-text" style="background-color: #b56289;">Otras sesiones</a>
+
+            <p/>
+         </div> 
+    </section>  
+
+    <section class="container" id="embarazo" style="min-height: 350px;margin-top: 20px;margin-bottom: 0px;">
 
           <div class="row">
                 <div class="col m12 s12" style="">
@@ -54,7 +79,7 @@
                 
           </div>
 
-          <!-- fotos  -->  
+        <!-- fotos  -->  
 
           <div class="row">
         
@@ -84,9 +109,18 @@
 
           
     </section>  
+ 
+    <section class="container right-align" style="min-height: 5px;margin-top: 5px;margin-bottom: 0px;">
+
+        <div class="row">
+            <div class="col m12 s12" style="">
+                <p><a href="./embarazo.php" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
+            </div>    
+        </div>
+    </section>
 
 
-    <section class="container" style="min-height: 350px;margin-top: 70px;margin-bottom: 0px;">
+    <section class="container" id="newborn" style="min-height: 350px;margin-top: 70px;margin-bottom: 0px;">
 
           <div class="row">
                 <div class="col m12 s12 left-align" style="">
@@ -130,9 +164,17 @@
           
     </section>   
 
+    <section class="container right-align" style="min-height: 5px;margin-top: 5px;margin-bottom: 0px;">
+
+            <div class="row">
+                <div class="col m12 s12" style="">
+                    <p><a href="./newborn.php" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
+                </div>    
+            </div>
+    </section>
 
 
-    <section class="container" style="min-height: 350px;margin-top: 70px;margin-bottom: 0px;">
+    <section class="container" id="smashcake" style="min-height: 350px;margin-top: 70px;margin-bottom: 0px;">
 
           <div class="row">
                 <div class="col m12 s12" style="">
@@ -173,8 +215,39 @@
           <!-- fotos  -->
 
           
-    </section>           
-    
+    </section>  
+
+        <section class="container right-align" style="min-height: 5px;margin-top: 5px;margin-bottom: 0px;">
+
+            <div class="row">
+                <div class="col m12 s12" style="">
+                    <p><a href="./smashcake.php" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
+                </div>    
+            </div>
+    </section>
+
+    <section class="container" id="otras" style="min-height: 350px;margin-top: 70px;margin-bottom: 0px;">
+
+          <div class="row">
+                <div class="col m12 s12 left-align" style="">
+                    <h3 class="letra" style="color: #e59691;">Otras sesiones</h3>
+                    <hr align="left" width="80%" style="background-color: #e59691; height: 1px; border: 0;">                                   
+                    <p></p>      
+                </div>    
+                
+          </div>
+
+          <!-- fotos  -->  
+    </section> 
+         
+    <section class="container right-align" style="min-height: 5px;margin-top: 5px;margin-bottom: 0px;">
+
+        <div class="row">
+            <div class="col m12 s12" style="">
+                <p><a href="./newborn.php" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
+            </div>    
+        </div>
+    </section>
          
 
 

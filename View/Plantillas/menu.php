@@ -12,8 +12,8 @@
         </ul>
 
         <ul class="left hide-on-med-and-down">
-            <li><a href="sesiones.php">Sesiones</a></li>
-            <li><a href="mi-portafolio.php">Mi portafolio</a></li>
+            <li><a href="sesiones">Sesiones</a></li>
+            <li><a href="mi-portafolio">Mi portafolio</a></li>
         </ul>                
         
     </nav>
@@ -26,9 +26,9 @@
 <ul id="slide-out" class="sidenav">
   <li><a href="." class="brand-logo center" style="padding-top: 10px;"><img src="Recursos/img/ItalaMigone-LogoV2.png" alt="" class="responsive-img" width="120"/></a></li>
   <li><div class="divider"></div></li>
-  <li><a href="sesiones.php">sesiones</a></li>
+  <li><a href="sesiones">sesiones</a></li>
   <li><div class="divider"></div></li>
-  <li><a class="waves-effect"  href="mi-portafolio.php">Portafolio</a></li>
+  <li><a class="waves-effect"  href="mi-portafolio">Portafolio</a></li>
   <li><div class="divider"></div></li>
   <li><a class="waves-effect"  href="#historias">Historias</a></li>
   <li><div class="divider"></div></li>
