@@ -26,7 +26,7 @@
 <ul id="slide-out" class="sidenav">
   <li><a href="." class="brand-logo center" style="padding-top: 10px;"><img src="Recursos/img/ItalaMigone-LogoV2.png" alt="" class="responsive-img" width="120"/></a></li>
   <li><div class="divider"></div></li>
-  <li><a href="sesiones">sesiones</a></li>
+  <li><a href="sesiones">Sesiones</a></li>
   <li><div class="divider"></div></li>
   <li><a class="waves-effect"  href="mi-portafolio">Portafolio</a></li>
   <li><div class="divider"></div></li>

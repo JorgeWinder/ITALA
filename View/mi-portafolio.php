@@ -10,11 +10,7 @@
     <script src="Recursos/js/jquery.bxslider.min.js"></script> 
           
     <script>
-    $(document).ready(function(){
-        
-        $('select').formSelect();
 
-  });
     </script>
 
     <style>
@@ -237,7 +233,35 @@
                 
           </div>
 
-          <!-- fotos  -->  
+        <!-- fotos  -->  
+
+        <div class="row">
+        
+        <div class="col m6 s12">
+                <a href="./Recursos/img/galeria/miportafolio/otras-sesiones/Port_ots_02.jpg" data-lightbox="example-image-link4"><img src="./Recursos/img/galeria/miportafolio/otras-sesiones/Port_ots_02.jpg" alt="" class="example-1 letra responsive-img"/></a>
+                <a href="./Recursos/img/galeria/miportafolio/otras-sesiones/Port_ots_05.jpg" data-lightbox="example-image-link4"><img src="./Recursos/img/galeria/miportafolio/otras-sesiones/Port_ots_05.jpg" alt="" class="example-1 letra responsive-img"/></a>
+                <a href="./Recursos/img/galeria/miportafolio/otras-sesiones/Port_ots_03.jpg" data-lightbox="example-image-link4"><img src="./Recursos/img/galeria/miportafolio/otras-sesiones/Port_ots_03.jpg" alt="" class="example-1 letra responsive-img"/></a>
+        </div>
+
+        <div class="col m6 s12">
+
+               <a href="./Recursos/img/galeria/miportafolio/otras-sesiones/Port_ots_01.jpg" data-lightbox="example-image-link4"><img src="./Recursos/img/galeria/miportafolio/otras-sesiones/Port_ots_01.jpg" alt="" class="example-1 letra responsive-img"/></a>
+
+        </div>
+
+        <div class="col m6 s12">
+        <a href="./Recursos/img/galeria/miportafolio/otras-sesiones/Port_ots_04.jpg" data-lightbox="example-image-link4"><img src="./Recursos/img/galeria/miportafolio/otras-sesiones/Port_ots_04.jpg" alt="" class="example-1 letra responsive-img"/></a>
+        </div>
+
+        <div class="col m6 s12">
+        
+        </div>
+
+      </div>
+
+
+      <!-- fotos  -->
+
     </section> 
          
     <section class="container right-align" style="min-height: 5px;margin-top: 5px;margin-bottom: 0px;">

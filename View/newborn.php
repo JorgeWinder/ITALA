@@ -49,9 +49,9 @@
                 <div class="col m6 s12" style="">
                     <h2 style="color: #e59691;">Newborn</h2>
                     <p>
-                    La fotografía siempre estuvo en mi vida. Mi etapa de mamá, me viculo aún mucho más con ella.
-                    La fotografía siempre estuvo en mi vida. Mi etapa de mamá, me viculo aún mucho más con ella.
+                    Como quisieramos que ese momento donde vemos el rostro de nuestro recien nacido, nunca termine.
                     </p>
+                    <p>Los primeros 15 días de nacido, son la única e irrepetible oportunidad que tenemos para capturar, por siempre, ese momento de amor.</p>
                     <p><a href="#precios" class="waves-effect waves-light btn" style="background-color: #b56289;">Ver precios</a><p/>
                 </div>          
 

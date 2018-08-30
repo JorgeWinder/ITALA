@@ -49,8 +49,11 @@
                 <div class="col m6 s12" style="">
                     <h2 style="color: #e59691;">Embarazo</h2>
                     <p>
-                    La fotografía siempre estuvo en mi vida. Mi etapa de mamá, me viculo aún mucho más con ella.
-                    La fotografía siempre estuvo en mi vida. Mi etapa de mamá, me viculo aún mucho más con ella.
+                    Las fotos de esta primera etapa serán las primeras fotos que colocaras en las primeras página de tu álbum familiar. 
+                    </p>
+                    <p>
+                    Que mejor oportunidad para capturar este momento a partir de los 7 meses. Meses donde tu barriguita 
+                    te hace expresar belleza y felicidad por la próxima llegada de una vida al mundo.
                     </p>
                     <p><a href="#precios" class="waves-effect waves-light btn" style="background-color: #b56289;">Ver precios</a><p/>
                 </div>          
