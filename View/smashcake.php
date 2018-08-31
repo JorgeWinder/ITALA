@@ -49,8 +49,12 @@
                 <div class="col m6 s12" style="">
                     <h2 style="color: #e59691;">Smashcake</h2>
                     <p>
-                    La fotografía siempre estuvo en mi vida. Mi etapa de mamá, me viculo aún mucho más con ella.
-                    La fotografía siempre estuvo en mi vida. Mi etapa de mamá, me viculo aún mucho más con ella.
+                    Una torta no solo es un símbolo de un año más de nuestro bebé. Le debe dar libertad para expresarse con felicidad, de una manera divertida: 
+                    Comiéndola con las manos y experimentando su textura.
+                    </p>
+                    <p>
+                        Es la prueba de lo felices que son cuando cumplen sus
+                        primeros años.
                     </p>
                     <p><a href="#precios" class="waves-effect waves-light btn" style="background-color: #b56289;">Ver precios</a><p/>
                 </div>          
