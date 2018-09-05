@@ -25,7 +25,7 @@
     </style>
 
 </head>
-<body>
+<body id="chips" >
     <!--JavaScript at end of body for optimized loading-->
     <script type="text/javascript" src="Recursos/js/materialize.min.js"></script>
 
@@ -50,10 +50,7 @@
           <div class="input-field col s12 m12  ">
             <p>
                <!--
-                   <a href="#embarazo" class="chip" style="background-color: #b56289; color: white;">Embarazo</a> 
-                    <a href="#newborn" class="chip" style="background-color: #dfbbcc; color: white;">Newborn</a>               
-                    <a href="#smashcake" class="chip white-text" style="background-color: #dfbbcc; color: white;">Smashcake</a>
-                    <a href="#otras" class="chip white-text" style="background-color: #dfbbcc; color: white;">Otras sesiones</a>
+
                -->
                <a href="#embarazo" class="chip white-text" style="background-color: #b56289;">Embarazo</a>
                <a href="#newborn" class="chip white-text" style="background-color: #b56289;">Newborn</a>
@@ -110,7 +107,7 @@
 
         <div class="row">
             <div class="col m12 s12" style="">
-                <p><a href="./embarazo.php" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
+                <p><a href="./embarazo" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
             </div>    
         </div>
     </section>
@@ -164,7 +161,7 @@
 
             <div class="row">
                 <div class="col m12 s12" style="">
-                    <p><a href="./newborn.php" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
+                    <p><a href="./newborn" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
                 </div>    
             </div>
     </section>
@@ -213,11 +210,11 @@
           
     </section>  
 
-        <section class="container right-align" style="min-height: 5px;margin-top: 5px;margin-bottom: 0px;">
+    <section class="container right-align" style="min-height: 5px;margin-top: 5px;margin-bottom: 0px;">
 
             <div class="row">
                 <div class="col m12 s12" style="">
-                    <p><a href="./smashcake.php" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
+                    <p><a href="./smashcake" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
                 </div>    
             </div>
     </section>
@@ -264,16 +261,13 @@
 
     </section> 
          
-    <section class="container right-align" style="min-height: 5px;margin-top: 5px;margin-bottom: 0px;">
 
-        <div class="row">
-            <div class="col m12 s12" style="">
-                <p><a href="./newborn.php" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
-            </div>    
-        </div>
-    </section>
-         
-
+    
+    <div class="fixed-action-btn direction-top" style="left:4px">
+            <a href="#chips" class="btn-floating btn-large red" style="background-color: #b56289 !important;">
+              <i class="large material-icons" style="color:white;font-size: 30pt;">expand_less</i>
+            </a>            
+    </div>
 
 
     <!-- Fin de contenido de página -->

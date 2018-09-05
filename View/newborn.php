@@ -6,7 +6,7 @@
 
       <!-- Script / Estilos CSS / Recursos de la página actual -->
 
-    <script src="View/Scripts/embarazo.js"></script> 
+    <script src="View/Scripts/newborn.js"></script> 
     <script src="Recursos/js/jquery.bxslider.min.js"></script> 
           
     <script></script>
@@ -112,17 +112,17 @@
 
           <div class="row">
             
-            <div class="col m6 s12" style="color: #e59691; padding: 20px 25px 0 0;margin-bottom: 10px;">
-                    <h2>Embarazo</h2>
-                    <h5>$ 200.00 (dólares)</h5>
+          <div class="col m6 s12" style="color: #e59691; padding: 20px 25px 0 0;margin-bottom: 10px;">
+                    <h2>Newborn</h2>
+                    <h5>PAQUETE SILVER - 400 soles </h5>
                     <ul>
-                        <li>10 Fotografías digitales en alta resolución.</li>
-                        <li>04 Fotografías impresas de 10x15cm (las mismas de las 10 fotos seleccionadas).</li>
-                        <li>Impresiones en fino papel de algodón.</li>
-                        <li>Accesorios y props de la mejor calidad.</li>
-                        <li>Fotografía únicamente del bebé.</li>                    
-                    </ul>
-
+                        <li>8 fotos digitales en calidad.</li>
+                        <li>1 impresión en tamaño 20x30cms.</li>
+                        <li>3 impresiones en tamaño 15x21cms.</li>
+                        <li>4 impresiones en tamaño 10x15cms.</li>
+                        <li>Entrega a domicilio.</li>                    
+                    </ul>                    
+                    <br>                    
                     <div class="row">
                         <div class="col m12 s12">
                             Hacer reserva via :
@@ -138,16 +138,15 @@
             </div>
 
 
-          
-            <div class="col m6 s12" style="color: #e59691; padding: 20px 20px 0 25px;margin-bottom: 10px;background-color: #efefef;">
-                    <h2>Promoción</h2>
-                    <h5><b/>$ 150.00 (dólares)</b></h5>
+            <div class="col m6 s12" style="color: #e59691; padding: 15px 20px 0 0;margin-bottom: 10px;">
+                    <h2></h2>
+                    <h5>PAQUETE GOLD - 600 soles</h5>
                     <ul>
-                        <li>10 Fotografías digitales en alta resolución.</li>
-                        <li>04 Fotografías impresas de 10x15cm (las mismas de las 10 fotos seleccionadas).</li>
-                        <li>Impresiones en fino papel de algodón.</li>
-                        <li>Accesorios y props de la mejor calidad.</li>
-                        <li>Fotografía únicamente del bebé.</li>                    
+                        <li>12 fotos digitales en alta calidad.</li>
+                        <li>1 Mini Book tapa dura en tamaño 10x10cms (10 páginas).</li>
+                        <li>12 impresiones en tamaño 10x15cms.</li>
+                        <li>Entrega a domicilio.</li>                    
+                        <br>
                     </ul>
 
                     <div class="row">
@@ -162,12 +161,38 @@
                         </div>
                     </div>
                     
-            </div>
-
-
+            </div>                                                
 
 
           </div> 
+
+          <div class="row">
+                    
+                <div class="col m6 s12" style="color: #e59691; padding: 20px 20px 0 25px;margin-bottom: 10px;background-color: #efefef;">
+                                <h2>Promoción</h2>
+                                <h5><b/>$ 150.00 (dólares)</b></h5>
+                                <ul>
+                                    <li>10 Fotografías digitales en alta resolución.</li>
+                                    <li>04 Fotografías impresas de 10x15cm (las mismas de las 10 fotos seleccionadas).</li>
+                                    <li>Impresiones en fino papel de algodón.</li>
+                                    <li>Accesorios y props de la mejor calidad.</li>
+                                    <li>Fotografía únicamente del bebé.</li>                    
+                                </ul>
+
+                                <div class="row">
+                                    <div class="col m12 s12">
+                                        Hacer reserva via :
+                                    </div>
+                                    <div class="col m6 s6">
+                                        <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>
+                                    </div>
+                                    <div class="col m6 s6">
+                                        <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
+                                    </div>
+                                </div>                    
+                    </div>
+
+          </div>
 
 
     </section>   

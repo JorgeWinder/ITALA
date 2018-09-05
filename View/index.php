@@ -132,7 +132,7 @@
         <div class="row valign-wrapper">
 
             <div class="col s12 m4">
-                <img src="Recursos/img/itala4.png" alt="" class="circle responsive-img">                
+                <img src="Recursos/img/Itala4.png" alt="" class="circle responsive-img">                
             </div>
 
             <div class="col s12 m8">
@@ -205,7 +205,7 @@
             </div>
                         
             <div class="col s12 m8">
-                <h4>Fabiola y Walter :</h4>                
+                <h4>Fabiola y Walter</h4>                
                 <p>"La fotografia es el gran momento que quedará guardado para toda nuestras vidas." </p>
                 <button id="btn_sobremi" class="waves-light btn-small" style="background-color: #b56289;">Ver más historias</button>
             </div>

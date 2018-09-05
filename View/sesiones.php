@@ -91,13 +91,13 @@
         </a>
           
         <a href="./newborn" style="color: white;">  
-        <div id="pr2" class="col s12 m12 grey" style="border-top: 4px #b56289 solid;">
+        <div id="pr2" class="col s12 m12 grey" style="border-top: 4px white solid;">
             <h1 class="letra" style="margin: 50px auto 0;max-width: 1000px;text-shadow: 1px 3px 4px #424242;">Newborn</h1>    
         </div>
         </a>
 
         <a href="./smashcake" style="color: white;">    
-        <div id="pr3" class="col s12 m12 grey" style="border-top: 4px #b56289 solid;">
+        <div id="pr3" class="col s12 m12 grey" style="border-top: 4px white solid;">
             <h1 class="letra" style="margin: 50px auto 0;max-width: 1000px;text-shadow: 1px 3px 4px #424242;">Smash cake</h1>
         </div>
         </a>

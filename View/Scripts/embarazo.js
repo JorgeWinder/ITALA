@@ -14,6 +14,10 @@ $(document).ready(function(){
                     minSlides: 1,
                     maxSlides: 1
         });
+
+        /* ----------------------------- */     
+
+        $('.sidenav').sidenav();   
                         
 
 });
