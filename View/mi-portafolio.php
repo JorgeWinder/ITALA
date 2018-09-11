@@ -54,6 +54,7 @@
                -->
                <a href="#embarazo" class="chip white-text" style="background-color: #b56289;">Embarazo</a>
                <a href="#newborn" class="chip white-text" style="background-color: #b56289;">Newborn</a>
+               <a href="#bebes" class="chip white-text" style="background-color: #b56289;">Bebés</a>
                <a href="#smashcake" class="chip white-text" style="background-color: #b56289;">Smashcake</a>
                <a href="#otras" class="chip white-text" style="background-color: #b56289;">Otras sesiones</a>
 
@@ -167,6 +168,55 @@
     </section>
 
 
+    <section class="container" id="bebes" style="min-height: 350px;margin-top: 20px;margin-bottom: 0px;">
+
+          <div class="row">
+                <div class="col m12 s12" style="">
+                    <h3 class="letra" style="color: #e59691;">Bebés</h3>
+                    <hr align="left" width="80%" style="background-color: #e59691; height: 1px; border: 0;">                                   
+                    <p></p>      
+                </div>    
+                
+          </div>
+
+        <!-- fotos  -->  
+
+          <div class="row">
+        
+            <div class="col m6 s12">
+                    <a href="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_03.jpg" data-lightbox="example-image-lin5"><img src="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_03.jpg" alt="" class="example-1 letra responsive-img"/></a>
+                    <a href="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_06.jpg" data-lightbox="example-image-lin5"><img src="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_06.jpg" alt="" class="example-1 letra responsive-img"/></a>                    
+            </div>
+
+            <div class="col m6 s12">
+
+                   <a href="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_05.jpg" data-lightbox="example-image-link5"><img src="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_05.jpg" alt="" class="example-1 letra responsive-img"/></a>
+                   <a href="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_01.jpg" data-lightbox="example-image-link5"><img src="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_01.jpg" alt="" class="example-1 letra responsive-img"/></a>
+                   <a href="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_02.jpg" data-lightbox="example-image-link5"><img src="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_02.jpg" alt="" class="example-1 letra responsive-img"/></a>
+                   <a href="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_04.jpg" data-lightbox="example-image-lin5"><img src="./Recursos/img/galeria/miportafolio/bebes/Port_bebes_04.jpg" alt="" class="example-1 letra responsive-img"/></a>
+
+            </div>
+
+            
+
+          </div>
+
+
+          <!-- fotos  -->
+
+          
+    </section>
+
+    <section class="container right-align" style="min-height: 5px;margin-top: 5px;margin-bottom: 0px;">
+
+            <div class="row">
+                <div class="col m12 s12" style="">
+                    <p><a href="./bebes" class="waves-effect waves-light btn" style="background-color: #b56289;">Más info</a></p>
+                </div>    
+            </div>
+    </section>
+
+
     <section class="container" id="smashcake" style="min-height: 350px;margin-top: 70px;margin-bottom: 0px;">
 
           <div class="row">
@@ -209,6 +259,7 @@
 
           
     </section>  
+    
 
     <section class="container right-align" style="min-height: 5px;margin-top: 5px;margin-bottom: 0px;">
 

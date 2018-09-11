@@ -41,7 +41,7 @@
     
             #pr2 {     
                 
-            background-image: url('../img/ProdCateNB.jpg');
+            background-image: url('../img/ProdCateNB2.jpg');
             
             background-size:cover;
             transition: all .6s ease-in;
@@ -55,7 +55,7 @@
             }
     
             #pr2:before{
-                background-color: rgba(229, 150, 145, 0.3);
+                background-color: rgba(229, 150, 145, 0.2);
                 content: '';
                 display: block;
                 height: 470px;

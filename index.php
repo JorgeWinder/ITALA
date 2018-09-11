@@ -41,6 +41,10 @@ $app->get('/embarazo',  function(){
     include_once 'View/newborn.php';  
  });
 
+ $app->get('/bebes',  function(){  
+    include_once 'View/bebes.php';  
+ });
+
  $app->get('/smashcake',  function(){  
     include_once 'View/smashcake.php';  
  });
