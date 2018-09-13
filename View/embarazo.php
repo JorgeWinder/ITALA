@@ -49,11 +49,11 @@
                 <div class="col m6 s12" style="">
                     <h2 style="color: #e59691;">Embarazo</h2>
                     <p>
-                    Las fotos de esta primera etapa serán las primeras fotos que colocaras en las primeras página de tu álbum familiar. 
+                    Las fotos de esta primera etapa serán las primeras fotos que colocarás en las primeras páginas de tu álbum familiar. 
                     </p>
                     <p>
-                    Que mejor oportunidad para capturar este momento a partir de los 7 meses. Meses donde tu barriguita 
-                    te hace expresar belleza y felicidad por la próxima llegada de una vida al mundo.
+                    La mejor oportunidad para capturar este momento es a partir de los 7 meses, donde tu barriguita 
+                    te hace expresar belleza y felicidad por la próxima llegada de tu bebé al mundo.
                     </p>
                     <p><a href="#precios" class="waves-effect waves-light btn" style="background-color: #b56289;">Ver precios</a><p/>
                 </div>          
@@ -126,9 +126,11 @@
     <section id="precios" class="container" style="min-height: 450px;">
 
           <div class="row">
+
+          <div class="col s12 m12" style="color: #e59691;"><h2>Embarazo</h2></div>
             
-          <div class="col m6 s12" style="color: #e59691; padding: 20px 25px 0 0;margin-bottom: 10px;">
-                    <h2>Embarazo</h2>
+          <div class="col m6 s12" style="color: #e59691; padding: 0px 25px 0 0;margin-bottom: 10px;">
+                    
                     <h5>PAQUETE SILVER - 400 soles</h5>
                     <ul>
                         <li>15 fotos digitales en alta calidad.</li>
@@ -140,7 +142,32 @@
 
                     <div class="row">
                         <div class="col m12 s12">
-                            Hacer reserva via :
+                            Hacer reserva vía :
+                        </div>
+                        <div class="col m6 s6">
+                            <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>
+                        </div>
+                        <div class="col m6 s6">
+                            <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
+                        </div>
+                    </div>
+                    
+            </div>
+
+            <div class="col m6 s12" style="color: #e59691; padding: 0px 20px 0 0;margin-bottom: 10px;">
+                    
+                    <h5>PAQUETE GOLD - 550 soles</h5>
+                    <ul>
+                        <li>20 fotos digitales en alta calidad.</li>
+                        <li>1 impresión en tamaño 20x30cms.</li>
+                        <li>5 impresiones en tamaño 15x21cms.</li>
+                        <li>2 vestuarios especiales (puede llevar un cambio de ropa adicional a los que entregamos).</li>
+                        <li>Entrega a domicilio.</li>                    
+                    </ul>
+
+                    <div class="row">
+                        <div class="col m12 s12">
+                            Hacer reserva vía :
                         </div>
                         <div class="col m6 s6">
                             <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>
@@ -154,44 +181,17 @@
 
             <div class="col m6 s12" style="color: #e59691; padding: 20px 20px 0 25px;margin-bottom: 10px;background-color: #efefef;">
                     <h2>Promoción</h2>
-                    <h5><b/>$ 150.00 (dólares)</b></h5>
+                    <h5><b/>PAQUETE - 250 soles</b></h5>
                     <ul>
-                        <li>10 Fotografías digitales en alta resolución.</li>
-                        <li>04 Fotografías impresas de 10x15cm (las mismas de las 10 fotos seleccionadas).</li>
-                        <li>Impresiones en fino papel de algodón.</li>
-                        <li>Accesorios y props de la mejor calidad.</li>
-                        <li>Fotografía únicamente del bebé.</li>                    
-                    </ul>
-
-                    <div class="row">
-                        <div class="col m12 s12">
-                            Hacer reserva via :
-                        </div>
-                        <div class="col m6 s6">
-                            <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>
-                        </div>
-                        <div class="col m6 s6">
-                            <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
-                        </div>
-                    </div>
-                    
-            </div>
-
-
-            <div class="col m6 s12" style="color: #e59691; padding: 20px 20px 0 0;margin-bottom: 10px;">
-                    <h2></h2>
-                    <h5>PAQUETE GOLD - 550 soles</h5>
-                    <ul>
-                        <li>20 fotos digitales en alta calidad.</li>
-                        <li>1 impresión en tamaño 20x30cms.</li>
-                        <li>5 impresiones en tamaño 15x21cms.</li>
-                        <li>2 vestuarios especiales (puede llevar un cambio de ropa adicional a los que entregamos).</li>
+                        <li>15 fotos digitales en alta calidad..</li>
+                        <li>Accesorios para su sesión.</li>
+                        <li>1 mini book personalizado tamaño 10x10cm de 10 páginas (5 hojas), que contendrá las fotos seleccionadas de su sesión.</li>                        
                         <li>Entrega a domicilio.</li>                    
                     </ul>
 
                     <div class="row">
                         <div class="col m12 s12">
-                            Hacer reserva via :
+                            Hacer reserva vía :
                         </div>
                         <div class="col m6 s6">
                             <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>
@@ -201,7 +201,7 @@
                         </div>
                     </div>
                     
-            </div>
+            </div>            
 
 
 

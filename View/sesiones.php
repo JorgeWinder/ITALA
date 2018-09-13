@@ -96,8 +96,14 @@
         </div>
         </a>
 
-        <a href="./smashcake" style="color: white;">    
+        <a href="./bebes" style="color: white;">    
         <div id="pr3" class="col s12 m12 grey" style="border-top: 4px white solid;">
+            <h1 class="letra" style="margin: 50px auto 0;max-width: 1000px;text-shadow: 1px 3px 4px #424242;">Bebés</h1>
+        </div>
+        </a>
+
+        <a href="./smashcake" style="color: white;">    
+        <div id="pr4" class="col s12 m12 grey" style="border-top: 4px white solid;">
             <h1 class="letra" style="margin: 50px auto 0;max-width: 1000px;text-shadow: 1px 3px 4px #424242;">Smash cake</h1>
         </div>
         </a>

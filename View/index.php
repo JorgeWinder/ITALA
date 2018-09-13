@@ -138,7 +138,7 @@
             <div class="col s12 m8">
                 <h4 style="color: #e59691;">Itala Migone</h4>
                 <h6><u>Fotógrafa y mamá de Juan Pablo</u></h6>
-                <p>La fotografia siempre formó parte de mi vida. La etapa de mamá, me vinculó aún más con ella. Este vínculo me dió la oportunidad de ver crecer a mi hijo para guardar cada momento de amor, en una foto.</p>
+                <p>La fotografia siempre formó parte de mi vida. En la etapa de mamá, me vinculé aún más con ella. Este vínculo me dió la oportunidad de ver crecer a mi hijo para guardar cada momento de amor, en una foto.</p>
                 <button id="btn_sobremi" class="waves-light btn-small" style="background-color: #b56289;">Conóceme</button>
             </div>
 
@@ -151,14 +151,18 @@
   <div id="categorias" class="container-wide">
 
         <div class="row" style="padding-top: 5rem;">
-           <div id="pr1" class="col s12 m4 red center-align" style="height:480px;padding: 0px;">                
+           <div id="pr1" class="col s12 m3 red center-align" style="height:400px;padding: 0px;">                
                 <!--<img  class="" style="position: relative;height: auto;" src="Recursos/img/PortadaEM.jpg" width="100%"> -->
                 <a href="./embarazo" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">Embarazo</a>
            </div>
-           <div id="pr2" class="col s12 m4 blue center-align" style="height:480px;padding: 0px;">
+           <div id="pr2" class="col s12 m3 blue center-align" style="height:400px;padding: 0px;">
                 <a href="./newborn" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">Newborn</a>
            </div>
-           <div id="pr3" class="col s12 m4 green center-align" style="height:480px;padding: 0px;">
+           <div id="pr3" class="col s12 m3 green center-align" style="height:400px;padding: 0px;">
+                <!--<button id="btn_categorias" style="border:1px solid white; background-color:transparent;">Smash Cake</button> --> 
+                <a href="./bebes" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">Bebés</a>               
+           </div>
+           <div id="pr4" class="col s12 m3 green center-align" style="height:400px;padding: 0px;">
                 <!--<button id="btn_categorias" style="border:1px solid white; background-color:transparent;">Smash Cake</button> --> 
                 <a href="./smashcake" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">smash cake</a>               
            </div>
@@ -185,7 +189,7 @@
             <div class="col s12 m8">
                 <h4>La fotografía y  yo(Itala)</h4>                
                 <p>La fotografía siempre formó parte de mi vida, y mi etapa de mamá, me viculo aún mucho más con ella.</p>
-                <button id="btn_sobremi" class="waves-light btn-small" style="background-color: #b56289;">Ver más historias</button>
+                <button id="btn_sobremi" class="waves-light btn-small" style="background-color: #b56289;">Ver historia</button>
             </div>
 
         </div>
@@ -200,14 +204,14 @@
 
             <div class="col s12 m4">
                 <div class="video-container">
-                    <iframe width="853" height="480" src="//www.youtube.com/embed/Q8TXgCzxEnw?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="853" height="480" src="//www.youtube.com/embed/w2uxkm7fw_8" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
                         
             <div class="col s12 m8">
                 <h4>Fabiola y Walter</h4>                
-                <p>"La fotografia es el gran momento que quedará guardado para toda nuestras vidas." </p>
-                <button id="btn_sobremi" class="waves-light btn-small" style="background-color: #b56289;">Ver más historias</button>
+                <p>"La fotografía es el gran momento que quedará guardado para toda nuestras vidas." </p>
+                <button id="btn_sobremi" class="waves-light btn-small" style="background-color: #b56289;">Ver historia</button>
             </div>
 
         </div>

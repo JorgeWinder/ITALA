@@ -49,10 +49,18 @@ document.addEventListener('DOMContentLoaded', function() {
           /* Script scroll click */ 
           
           $(document).ready(function(){
+
+                    if($(window).width()>1100){
+                        medida = 90;    
+                    }else if($(window).width()<768){
+                        medida = 50;    
+                    }
+
+                    //alert($(window).width());                   
               
                     $('a').click(function(){
                         $('html, body').animate({
-                            scrollTop: $( $(this).attr('href') ).offset().top - 50
+                            scrollTop: $( $(this).attr('href') ).offset().top - medida
                         }, 1500);
                     return false;
                     });    

@@ -127,7 +127,7 @@
 
                     <div class="row">
                         <div class="col m12 s12">
-                            Hacer reserva via :
+                            Hacer reserva vía :
                         </div>
                         <div class="col m6 s6">
                             <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>
@@ -141,18 +141,16 @@
 
             <div class="col m6 s12" style="color: #e59691; padding: 20px 20px 0 25px;margin-bottom: 10px;background-color: #efefef;">
                     <h2>Promoción</h2>
-                    <h5><b/>$ 150.00 (dólares)</b></h5>
+                    <h5><b>PAQUETE - 300 soles</b></h5>
                     <ul>
-                        <li>10 Fotografías digitales en alta resolución.</li>
-                        <li>04 Fotografías impresas de 10x15cm (las mismas de las 10 fotos seleccionadas).</li>
-                        <li>Impresiones en fino papel de algodón.</li>
-                        <li>Accesorios y props de la mejor calidad.</li>
-                        <li>Fotografía únicamente del bebé.</li>                    
+                        <li>20 fotos digitales en alta calidad.</li>
+                        <li>1 Big Cupcake (torta) finamente decorado.</li>
+                        <li>1 vestuario especial (tutú, pantaloncito o short).</li>
                     </ul>
 
-                    <div class="row">
+                    <div class="row" style="margin-top: 80px;">
                         <div class="col m12 s12">
-                            Hacer reserva via :
+                            Hacer reserva vía :
                         </div>
                         <div class="col m6 s6">
                             <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>

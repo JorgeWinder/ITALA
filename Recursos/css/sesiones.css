@@ -80,7 +80,7 @@
     
             #pr3 {     
                 
-            background-image: url('../img/ProdCateSC.png');
+            background-image: url('../img/ProdCateBB.jpg');
             
             background-size:cover;
             transition: all .6s ease-in;
@@ -115,6 +115,44 @@
                 width: 100%;
             }
 
+
+            #pr4 {     
+                
+                background-image: url('../img/ProdCateSC.png');
+                
+                background-size:cover;
+                transition: all .6s ease-in;
+                background-position: 0px, 0px;             
+                height: 470px;
+                }
+        
+                #pr4:hover {
+                    background-size: cover;            
+                    background-position: 0px, 0px;
+                    
+                }
+        
+                #pr4:before{
+                    background-color: rgba(229, 150, 145, 0.3);
+                    content: '';
+                    display: block;
+                    height: 470px;
+                    position: absolute;
+                    left: 0;
+                    width: 100%;
+                    transition: all .6s ease-in;
+                }
+        
+                #pr4:hover:before{
+                    background-color: rgba(229, 150, 145, 0.1);
+                    content: '';
+                    display: block;
+                    height: 470px;
+                    position: absolute;
+                    left: 0;
+                    width: 100%;
+                }
+                
 
 
             @media screen and (max-width:768px){
@@ -181,6 +219,21 @@
                     }
 
                     #pr3:hover:before{
+
+                        height: 190px;
+
+                    }
+
+                    #pr4 {                                    
+                    height: 190px;
+                    }
+            
+            
+                    #pr4:before{
+                        height: 190px;
+                    }
+
+                    #pr4:hover:before{
 
                         height: 190px;
 

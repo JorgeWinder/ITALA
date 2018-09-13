@@ -45,13 +45,11 @@
     ?>
 
     <!-- Inicio de contenido de página -->
-    <section class="container right-align" style="min-height:30px;margin-top: 30px;margin-bottom: 0px;">
+    <section class="container right-align" style="min-height:30px;margin-top: 40px;margin-bottom: 0px;">
          <div class="row">
           <div class="input-field col s12 m12  ">
             <p>
-               <!--
 
-               -->
                <a href="#embarazo" class="chip white-text" style="background-color: #b56289;">Embarazo</a>
                <a href="#newborn" class="chip white-text" style="background-color: #b56289;">Newborn</a>
                <a href="#bebes" class="chip white-text" style="background-color: #b56289;">Bebés</a>

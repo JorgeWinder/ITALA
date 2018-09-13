@@ -4,7 +4,7 @@
 
     <nav class="white">
         <a href="#" data-target="slide-out" class="sidenav-trigger"><i id="imenu" class="material-icons">menu</i></a>
-        <a href="." class="brand-logo center" style="padding-top: 20px;"><img src="Recursos/img/ItalaMigone-LogoV2.png" alt="" class="responsive-img" width="260"/></a>
+        <a href="." class="brand-logo center" style="padding-top: 20px;height: 100%"><img src="Recursos/img/ItalaMigone-LogoV2.png" alt="" class="responsive-img" width="260"/></a>
         
         <ul class="right hide-on-med-and-down">
             <li><a href="#historias">Historias</a></li>
