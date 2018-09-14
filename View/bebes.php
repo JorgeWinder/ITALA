@@ -23,9 +23,10 @@
 
 </head>
 <body>
-    <!--JavaScript at end of body for optimized loading-->
-    <script type="text/javascript" src="Recursos/js/materialize.min.js"></script>
-
+    <!-- Plant. código para cuerpo  -->
+    <?php include_once './View/Plantillas/cuerpo.php'; ?>
+    <!-- --> 
+    
     <!-- preloader  -->
     <?php 
     include_once './View/Plantillas/preload.php';

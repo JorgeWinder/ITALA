@@ -23,8 +23,9 @@
 
 </head>
 <body>
-    <!--JavaScript at end of body for optimized loading-->
-    <script type="text/javascript" src="Recursos/js/materialize.min.js"></script>
+    <!-- Plant. código para cuerpo  -->
+    <?php include_once './View/Plantillas/cuerpo.php'; ?>
+    <!-- --> 
 
     <!-- preloader  -->
     <?php 
@@ -49,7 +50,7 @@
                 <div class="col m6 s12" style="">
                     <h2 style="color: #e59691;">Newborn</h2>
                     <p>
-                    Como quisieramos que ese momento donde vemos el rostro de nuestro recien nacido, nunca termine.
+                    Cómo quisieramos que ese momento donde vemos el rostro de nuestro recien nacido, nunca termine.
                     </p>
                     <p>Dentro de sus 15  primeros días de nacido, podemos capturar con mayor facilidad esos momentos de ternura y amor para toda la vida.</p>
                     <p><a href="#precios" class="waves-effect waves-light btn" style="background-color: #b56289;">Ver precios</a><p/>
