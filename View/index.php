@@ -138,7 +138,7 @@
                 <h4 style="color: #e59691;">Itala Migone</h4>
                 <h6><u>Fotógrafa y mamá de Juan Pablo</u></h6>
                 <p>La fotografia siempre formó parte de mi vida. En la etapa de mamá, me vinculé aún más con ella. Este vínculo me dió la oportunidad de ver crecer a mi hijo para guardar cada momento de amor, en una foto.</p>
-                <button id="btn_sobremi" class="waves-light btn-small" style="background-color: #b56289;">Conóceme</button>
+                <a href="./una-foto-una-prueba-de-tu-amor" class="waves-effect waves-light btn" style="background-color: #b56289;">Conóceme</a>
             </div>
 
         </div>             
@@ -177,18 +177,18 @@
     <div>
 
 
-        <div class="row" style="padding: 25px;box-shadow: 0 2px 5px rgba(0,0,0,0.5)">
+        <div class="row" style="padding: 25px;box-shadow: 0 2px 4px rgba(0,0,0,0.3)">
 
-            <div class="col s12 m4">
+            <div class="col s12 m6">
                 <div class="video-container">
                     <iframe width="853" height="480" src="//www.youtube.com/embed/3BeGmFVlikM" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
                         
-            <div class="col s12 m8">
-                <h4>La fotografía y  yo(Itala)</h4>                
+            <div class="col s12 m6">
+                <h4 style="color: #e59691; ">Una foto, una prueba de tu amor</h4>                
                 <p>La fotografía siempre formó parte de mi vida, y mi etapa de mamá, me viculo aún mucho más con ella.</p>
-                <button id="btn_sobremi" class="waves-light btn-small" style="background-color: #b56289;">Ver historia</button>
+                <a href="./una-foto-una-prueba-de-tu-amor" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">Ver historia</a>
             </div>
 
         </div>
@@ -199,18 +199,18 @@
     <div>
 
 
-        <div class="row" style="padding: 25px;box-shadow: 0 2px 5px rgba(0,0,0,0.5)">
+        <div class="row" style="padding: 25px;box-shadow: 0px 2px 4px rgba(0,0,0,0.3)">
 
-            <div class="col s12 m4">
+            <div class="col s12 m6">
                 <div class="video-container">
                     <iframe width="853" height="480" src="//www.youtube.com/embed/w2uxkm7fw_8" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
                         
-            <div class="col s12 m8">
-                <h4>Fabiola y Walter</h4>                
-                <p>"La fotografía es el gran momento que quedará guardado para toda nuestras vidas." </p>
-                <button id="btn_sobremi" class="waves-light btn-small" style="background-color: #b56289;">Ver historia</button>
+            <div class="col s12 m6">
+                <h4 style="color: #e59691; ">Isabela</h4>                
+                <p>"La fotografia es el gran momento que quedará guardado para toda nuestras vidas." </p>
+                <a href="./isabela" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">Ver historia</a>
             </div>
 
         </div>
