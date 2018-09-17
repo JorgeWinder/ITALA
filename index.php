@@ -53,6 +53,21 @@ $app->get('/embarazo',  function(){
     include_once 'View/mi-portafolio.php';  
  });
 
+
+ $app->get('/historias',  function(){  
+    include_once 'View/historias.php';  
+ });
+
+
+ $app->get('/isabela',  function(){  
+    include_once 'View/isabela.php';  
+ });
+
+
+ $app->get('/una-foto-una-prueba-de-tu-amor',  function(){  
+    include_once 'View/una-foto-una-prueba-de-tu-amor.php';  
+ });
+
 //-------------------------------------------------//
 
 $app->get('/hello/{name}', function (Request $request, Response $response) {

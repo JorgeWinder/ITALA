@@ -7,7 +7,7 @@
         <a href="." class="brand-logo center" style="padding-top: 20px;height: 100%"><img src="Recursos/img/ItalaMigone-LogoV2.png" alt="" class="responsive-img" width="260"/></a>
         
         <ul class="right hide-on-med-and-down">
-            <li><a href="#historias">Historias</a></li>
+            <li><a href="historias">Historias</a></li>
             <li><a href="#contacto">Contacto</a></li>
         </ul>
 
@@ -30,7 +30,7 @@
   <li><div class="divider"></div></li>
   <li><a class="waves-effect"  href="mi-portafolio">Portafolio</a></li>
   <li><div class="divider"></div></li>
-  <li><a class="waves-effect"  href="#historias">Historias</a></li>
+  <li><a class="waves-effect"  href="historias">Historias</a></li>
   <li><div class="divider"></div></li>
   <li><a class="waves-effect"  href="#contacto">Contacto</a></li>
   <li><div class="divider"></div></li>
