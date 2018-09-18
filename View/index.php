@@ -186,7 +186,7 @@
             </div>
                         
             <div class="col s12 m6">
-                <h4 style="color: #e59691; ">Una foto, una prueba de tu amor</h4>                
+                <h4 style="color: #e59691;">Una foto, una prueba de tu amor</h4>                
                 <p>La fotografía siempre formó parte de mi vida, y mi etapa de mamá, me viculo aún mucho más con ella.</p>
                 <a href="./una-foto-una-prueba-de-tu-amor" class="waves-effect waves-light btn" style="top: 81%;background-color: #b56289;">Ver historia</a>
             </div>

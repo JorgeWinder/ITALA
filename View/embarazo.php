@@ -3,6 +3,7 @@
 <head>
     
     <?php include_once './View/Plantillas/cabecera.php'; ?>
+    <?php include_once './View/metas/embarazo.met'; ?>
 
       <!-- Script / Estilos CSS / Recursos de la página actual -->
 
@@ -149,7 +150,9 @@
                             <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>
                         </div>
                         <div class="col m6 s6">
-                            <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
+                            <!-- <a href="https://api.whatsapp.com/51956393300/?text=http://www.italamigone.com/embarazo%0APaqueteSilver%20400%20Soles" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>                        -->
+                            <a href="https://api.whatsapp.com/send?phone=51956393300&text=http://www.italamigone.com/embarazo%0APaqueteSilver%20400%20Soles" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
+                            <!-- <a href="whatsapp://send?text=http://www.italamigone.com/embarazo%0APaqueteSilver-400-Soles&phone=+51956393300" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a> -->
                         </div>
                     </div>
                     

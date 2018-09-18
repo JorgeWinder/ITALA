@@ -5,6 +5,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Itala Migone</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index,follow" />
+<meta name="googlebot" content="index, follow" />
+
+<link rel="shortcut icon" href="./Recursos/img/iconos/favicon.ico" type="image/x-icon">
 
 <script src="Recursos/js/jquery.min.js"></script>
 
@@ -97,10 +101,4 @@ document.addEventListener('DOMContentLoaded', function() {
           })
 
 </script>
-
-
-
-
-
-
 
