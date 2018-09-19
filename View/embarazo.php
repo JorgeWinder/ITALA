@@ -47,7 +47,7 @@
        
     <section class="container" style="min-height: 350px;margin-top: 70px;margin-bottom: 15px;">
 
-          <div class="row">
+          <div class="row valign-wrapper">
                 <div class="col m6 s12" style="">
                     <h2 style="color: #e59691;">Embarazo</h2>
                     <p>
@@ -145,14 +145,14 @@
                     <div class="row">
                         <div class="col m12 s12">
                             Hacer reserva vía :
-                        </div>
-                        <div class="col m6 s6">
-                            <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>
-                        </div>
+                        </div>                        
                         <div class="col m6 s6">
                             <!-- <a href="https://api.whatsapp.com/51956393300/?text=http://www.italamigone.com/embarazo%0APaqueteSilver%20400%20Soles" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>                        -->
-                            <a href="https://api.whatsapp.com/send?phone=51956393300&text=http://www.italamigone.com/embarazo%0APaqueteSilver%20400%20Soles" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
+                            <a href="https://api.whatsapp.com/send?phone=51956393300&text=http://www.italamigone.com/embarazo%0APaquete%20Silver%20400%20Soles" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
                             <!-- <a href="whatsapp://send?text=http://www.italamigone.com/embarazo%0APaqueteSilver-400-Soles&phone=+51956393300" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a> -->
+                        </div>
+                        <div class="col m6 s6">                            
+                            <a href="https://www.messenger.com/t/italamigonefotografia/" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;" onclick="var x = -2; var y = screen.height - 560;  window.open('https://www.messenger.com/t/italamigonefotografia/', 'newwindow', 'width=657, height=400, left=' + x.toString() + ', top=' + y.toString()); return false;" class="btn-floating blue darken-1" style="opacity: 0; transform: scale(0.4) translateY(0px) translateX(40px);width: 100%;margin-top: 8px;background-color: #b56289;" >Messenger</a>
                         </div>
                     </div>
                     
@@ -172,12 +172,12 @@
                     <div class="row">
                         <div class="col m12 s12">
                             Hacer reserva vía :
+                        </div>                        
+                        <div class="col m6 s6">
+                            <a href="https://api.whatsapp.com/send?phone=51956393300&text=http://www.italamigone.com/embarazo%0A%0APaquete%20Gold%20550%20Soles" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
                         </div>
                         <div class="col m6 s6">
-                            <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>
-                        </div>
-                        <div class="col m6 s6">
-                            <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
+                            <a href="https://www.messenger.com/t/italamigonefotografia/" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;" onclick="var x = -2; var y = screen.height - 560;  window.open('https://www.messenger.com/t/italamigonefotografia/', 'newwindow', 'width=657, height=400, left=' + x.toString() + ', top=' + y.toString()); return false;" class="btn-floating blue darken-1" style="opacity: 0; transform: scale(0.4) translateY(0px) translateX(40px);width: 100%;margin-top: 8px;background-color: #b56289;" >Messenger</a>
                         </div>
                     </div>
                     
@@ -198,10 +198,10 @@
                             Hacer reserva vía :
                         </div>
                         <div class="col m6 s6">
-                            <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Messenger</a>
+                            <a href="https://api.whatsapp.com/send?phone=51956393300&text=http://www.italamigone.com/embarazo%0A%0APromo.%20Embarazo%20250%20Soles" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
                         </div>
                         <div class="col m6 s6">
-                            <a href="#precios" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;">Whatsapp</a>
+                            <a href="https://www.messenger.com/t/italamigonefotografia/" class="waves-effect waves-light btn" style="width: 100%;margin-top: 8px;background-color: #b56289;" onclick="var x = -2; var y = screen.height - 560;  window.open('https://www.messenger.com/t/italamigonefotografia/', 'newwindow', 'width=657, height=400, left=' + x.toString() + ', top=' + y.toString()); return false;" class="btn-floating blue darken-1" style="opacity: 0; transform: scale(0.4) translateY(0px) translateX(40px);width: 100%;margin-top: 8px;background-color: #b56289;" >Messenger</a>
                         </div>
                     </div>
                     

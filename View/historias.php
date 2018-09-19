@@ -106,7 +106,7 @@
     <div class="col s12 m12">
       <div class="card">
         <div class="card-image">
-          <img src="recursos/img/Historia-Isabela.jpg">
+          <img src="Recursos/img/Historia-Isabela.jpg">
           <!--<span class="card-title" style="color: #e59691; font-size:42px; font-weight:bold; ">Una foto, una prueba de tu amor</span>-->
         </div>
         <div class="card-content">
